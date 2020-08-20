@@ -46,4 +46,4 @@ Here are some useful links:
 
 [Repository](https://github.com/paunavarrogaspar/Project-Week-8-Travelling-With-Wheelchair/)  
 [Slides](https://slides.com/paunavarro/project/fullscreen/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/3i6JNUNE/projectweek8)  
