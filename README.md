@@ -7,17 +7,16 @@
 
 ## Content
 - [Project Description](#project-description)
-- [Hypotheses / Questions](#hypotheses-questions)
+- [Questions](#hypotheses-questions)
 - [Dataset](#dataset)
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
-- [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show.
+For this project I entended to generate a deep learning algorithm that was capable of identifying whether there was a ramp or not on a certain sidewalk image, to automatically assess the accessibility of a certain city or even a certain route. Also, to avoid mistakes, I generated an algorithm capable of identyfying whether the image contained a sidewalk or not, but due to time constrains I was not able to deploy it fully.
 
 ## Questions
 * Can we automatically assess sidewalk accessibility by feeding the computer with Google StreetView images?
@@ -33,9 +32,6 @@ I used the ResNet50 model, with a training sample of 1.500 images. After the tra
 
 ## Future Work
 For future tasks, I should try to increase my accuracy by getting bigger samples and testing different algorithms, contemplate more barriers a sidewalk can have than just having no ramp and adress other questions handicapped people face when planning a trip to an unknown city.
-## Workflow
-Outline the workflow you used in your project. What were the steps?
-How did you test the accuracy of your analysis and/or machine learning algorithm?
 
 ## Organization
 First, I researched about the topic and looked for a database. After realizing that I did not have one, I created it myself with Google StreetView. Then, I studied what kind of algotirthms could work best and started training the ResNet50 model and tested its accuracy.
@@ -44,6 +40,6 @@ Due to storage issues, the trained models cannot be uploaded to Github. Should y
 ## Links
 Here are some useful links:
 
-[Repository](https://github.com/paunavarrogaspar/Project-Week-8-Travelling-With-Wheelchair/)  
+[Repository](https://github.com/paunavarrogaspar/Project-Week-8-Travelling-With-Wheelchair/) 
 [Slides](https://slides.com/paunavarro/project/fullscreen/)  
 [Trello](https://trello.com/b/3i6JNUNE/projectweek8)  
